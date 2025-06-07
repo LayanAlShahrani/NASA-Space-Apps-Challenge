@@ -15,3 +15,6 @@ The project addresses challenges like vegetation decline, reduced productivity, 
 ### Interfaces
 Initial UI designs have been created
 ![UI](UI.png)
+
+### How Does Geras Work ?
+![Geras](Geras.png)
