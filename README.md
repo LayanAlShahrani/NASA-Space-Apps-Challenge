@@ -1,4 +1,5 @@
 ## 🌱 Gheras – Smart Agriculture for a Sustainable Future
+🚀 This project was developed for the NASA Space Apps Challenge 2024, where we proudly won **1st place in the local edition – Saudi Arabia**. 🌍🏆
 Note: All code and interfaces included here are preliminary prototypes and are still under development.
 
 ### Overview
